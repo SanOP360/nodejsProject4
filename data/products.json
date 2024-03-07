@@ -1,0 +1,16 @@
+[
+  {
+    "id": "123245",
+    "title": "A Book",
+    "imageUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/56d96263885635.5acd0047cf3e6.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "id": "0.41607315815753076",
+    "title": "Second book",
+    "imageUrl": "https://th.bing.com/th/id/OIP.TPWFnbVgvRvDlfVxVU5kqQHaLG?rs=1&pid=ImgDetMain",
+    "description": "fadsfads",
+    "price": "12"
+  }
+]
